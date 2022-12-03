@@ -5,3 +5,5 @@ Menambah feature 3 di file3.txt
 Menambah feature B
 
 feature rebase
+
+Menambah feature merge squash
